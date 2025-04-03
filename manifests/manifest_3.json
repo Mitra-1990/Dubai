@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mitra-1990.github.io/Dubai/manifests/manifest_3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Shiraaz",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Masjed-e Vakil",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "mosque",
+  "sequences" : [ {
+    "@id" : "http://321ffc1e-bb0d-402f-92a4-b511690b19fd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9a5a3e3b-f91b-4463-a11e-5dcd4a4ede91",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3951,
+      "width" : 5926,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://53352e42-ca9c-4009-a360-04b5c0f7ecf6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mitra-1990.github.io/Dubai/images/faruk-kaymak-P_Ne56WEe5s-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mitra-1990.github.io/Dubai/images/faruk-kaymak-P_Ne56WEe5s-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3951,
+          "width" : 5926
+        },
+        "on" : "http://9a5a3e3b-f91b-4463-a11e-5dcd4a4ede91"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
