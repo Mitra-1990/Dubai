@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mitra-1990.github.io/Dubai/manifests/manifest_3.json",
     "label" : "Shiraaz"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mitra-1990.github.io/Dubai/manifests/2.json",
+    "label" : "Shiraaz"
   } ]
 }
