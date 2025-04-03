@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://Mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "shayan-hamidi-oNrirJrOCMc-unsplash"
+                ]
+            },
+            "height": 4000,
+            "width": 3000,
+            "items": [
+                {
+                    "id": "https://Mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 94,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 2000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 4000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3000,
+                                        "@id": "https://Mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Mitra-1990.github.io/Dubai/images/noir-EZM57An3Iic-unsplash/canvas/",
             "type": "Canvas",
             "label": {
