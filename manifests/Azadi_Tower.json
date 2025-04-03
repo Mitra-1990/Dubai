@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mitra-1990.github.io/Dubai/manifests/Azadi_Tower.json",
+  "@type" : "sc:Manifest",
+  "label" : "Tehran",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Borj-e Azadi",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Azadi Tower",
+  "sequences" : [ {
+    "@id" : "http://321ffc1e-bb0d-402f-92a4-b511690b19fd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c41e3c4e-8a14-4daa-8cd3-87afb712ee97",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://70b05542-0c1a-4cdd-919e-c84f294beb52",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mitra-1990.github.io/Dubai/images/shayan-hamidi-oNrirJrOCMc-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 3000
+        },
+        "on" : "http://c41e3c4e-8a14-4daa-8cd3-87afb712ee97"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
