@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mitra-1990.github.io/Dubai/manifests/Nomad.json",
     "label" : "Nomad"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mitra-1990.github.io/Dubai/manifests/nomad.json",
+    "label" : "Nomads"
   } ]
 }
