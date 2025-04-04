@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 144,
+    "height" : 96
+  }, {
+    "width" : 288,
+    "height" : 192
+  }, {
+    "width" : 576,
+    "height" : 384
+  }, {
+    "width" : 1152,
+    "height" : 768
+  }, {
+    "width" : 2304,
+    "height" : 1536
+  }, {
+    "width" : 4608,
+    "height" : 3072
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4608,
+  "@id" : "https://Mitra-1990.github.io/Dubai/images/Nomad",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3072
+}
