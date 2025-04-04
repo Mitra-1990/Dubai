@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mitra-1990.github.io/Dubai/manifests/Persian_food.json",
+  "@type" : "sc:Manifest",
+  "label" : "Persian food",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Zereshk_polo",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "zereshk polo ba morgh",
+  "sequences" : [ {
+    "@id" : "http://a3c9653a-c46a-4c7f-8511-a6e4fc47e011",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1fc6424c-658e-4e71-a817-4038347c1167",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 853,
+      "width" : 1280,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af007b48-6ed2-40c5-b9b9-24863c5d58cb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mitra-1990.github.io/Dubai/images/photo_2025-04-03_18-46-08/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mitra-1990.github.io/Dubai/images/photo_2025-04-03_18-46-08",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 853,
+          "width" : 1280
+        },
+        "on" : "http://1fc6424c-658e-4e71-a817-4038347c1167"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
