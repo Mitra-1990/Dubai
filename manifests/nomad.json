@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mitra-1990.github.io/Dubai/manifests/nomad.json",
+  "@type" : "sc:Manifest",
+  "label" : "Nomads",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Nomadic life",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Nomads in Nature",
+  "sequences" : [ {
+    "@id" : "http://a3c9653a-c46a-4c7f-8511-a6e4fc47e011",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7321868e-eaed-4fe3-9e3e-86f5b99f9127",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3072,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://94f0217a-a9c0-4223-b43e-1408637c0287",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mitra-1990.github.io/Dubai/images/Nomad/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mitra-1990.github.io/Dubai/images/Nomad",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3072,
+          "width" : 4608
+        },
+        "on" : "http://7321868e-eaed-4fe3-9e3e-86f5b99f9127"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
