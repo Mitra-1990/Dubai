@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 94,
+    "height" : 94
+  }, {
+    "width" : 187,
+    "height" : 187
+  }, {
+    "width" : 374,
+    "height" : 374
+  }, {
+    "width" : 747,
+    "height" : 747
+  }, {
+    "width" : 1494,
+    "height" : 1494
+  }, {
+    "width" : 2988,
+    "height" : 2988
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2988,
+  "@id" : "https://Mitra-1990.github.io/Dubai/images/pexels-joshsorenson-427649",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2988
+}
