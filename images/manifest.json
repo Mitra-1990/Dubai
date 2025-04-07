@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://Mitra-1990.github.io/Dubai/images/manuel-moreno-DGa0LQ0yDPc-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "manuel-moreno-DGa0LQ0yDPc-unsplash"
+                ]
+            },
+            "height": 2848,
+            "width": 4288,
+            "items": [
+                {
+                    "id": "https://Mitra-1990.github.io/Dubai/images/manuel-moreno-DGa0LQ0yDPc-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Mitra-1990.github.io/Dubai/images/manuel-moreno-DGa0LQ0yDPc-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Mitra-1990.github.io/Dubai/images/manuel-moreno-DGa0LQ0yDPc-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 134,
+                                                "height": 89
+                                            },
+                                            {
+                                                "width": 268,
+                                                "height": 178
+                                            },
+                                            {
+                                                "width": 536,
+                                                "height": 356
+                                            },
+                                            {
+                                                "width": 1072,
+                                                "height": 712
+                                            },
+                                            {
+                                                "width": 2144,
+                                                "height": 1424
+                                            },
+                                            {
+                                                "width": 4288,
+                                                "height": 2848
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4288,
+                                        "@id": "https://Mitra-1990.github.io/Dubai/images/manuel-moreno-DGa0LQ0yDPc-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2848,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Mitra-1990.github.io/Dubai/images/manuel-moreno-DGa0LQ0yDPc-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Mitra-1990.github.io/Dubai/images/Nomad/canvas/",
             "type": "Canvas",
             "label": {
