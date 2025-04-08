@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Mitra-1990.github.io/Dubai/annotations/Tennis_Court.json" ],
+  "@id" : "https://Mitra-1990.github.io/Dubai/annotations/collection.json",
+  "label" : "All annotations loaded in Mitra-1990/Dubai project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
